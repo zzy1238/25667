@@ -23,4 +23,4 @@
 5. 遵守合规性与法律
 确保平台符合当地的法律法规，并设有年龄验证机制，以保障成人内容的合规性。这不仅保护了用户，也提升了平台的可信度，有助于提高搜索排名。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/zzy1238/25667 ）</span>
